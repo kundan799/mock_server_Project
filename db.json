@@ -2,15 +2,18 @@
   "data": [
     {
       "id": 1,
-      "title": "Reactjs"
+      "title": "Reactjs",
+      "place":"Ranchi, jharkhand"
     },
     {
       "id": 2,
-      "title": " want to learn Reactjs "
+      "title": " want to learn Reactjs ",
+      "place":"patna, Bihar"
     },
     {
       "id": 3,
-      "title": "js"
+      "title": "js",
+      "place":"Chatra, Jharkhand"
     }
   ]
 }
