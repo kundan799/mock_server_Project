@@ -2,17 +2,17 @@
   "data": [
     {
       "id": 1,
-      "title": "Reactjs",
+      "title": "Kundan Kumar",
       "place":"Ranchi, jharkhand"
     },
     {
       "id": 2,
-      "title": " want to learn Reactjs ",
+      "title": "Aman Kumar",
       "place":"patna, Bihar"
     },
     {
       "id": 3,
-      "title": "js",
+      "title": "Alok",
       "place":"Chatra, Jharkhand"
     }
   ]
